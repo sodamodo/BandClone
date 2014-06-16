@@ -7,7 +7,7 @@ admin.autodiscover()
 urlpatterns = patterns('',
     # Examples:
     #url(r'^$', 'BandClone.views.home', name='home'),
-    url(r'^$', include('Rocker.urls')),
+    url(r'/$', include('Rocker.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
 )
