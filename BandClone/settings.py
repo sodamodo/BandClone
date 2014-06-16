@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Rocker',
+    'bootstrap3',
 )
 
 MIDDLEWARE_CLASSES = (

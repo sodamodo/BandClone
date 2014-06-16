@@ -7,4 +7,4 @@ def hello(request):
     return render(request, 'base.html', {'blog': posts})
 
 def register(request):
-    return render(request,'register.html')
+    return render(request,'register.html',{'hello':"hello"})

@@ -5,8 +5,6 @@ from BandClone import settings
 from django.conf.urls.static import static
 urlpatterns = patterns('',
     # Examples:
-    url(r'^$', 'Rocker.views.hello', name='hello'),
-    url(r'^register/$', 'Rocker.views.register', name='register'),
 
 
 ) + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
