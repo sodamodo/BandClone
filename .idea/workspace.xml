@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="base.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="14" selection-start="544" selection-end="544" vertical-scroll-proportion="0.5588235" vertical-offset="0" max-vertical-offset="1037">
+            <state line="25" column="20" selection-start="823" selection-end="823" vertical-scroll-proportion="-14.384615" vertical-offset="51" max-vertical-offset="986">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BandClone/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="51" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+            <state line="28" column="1" selection-start="849" selection-end="849" vertical-scroll-proportion="0.78807944" vertical-offset="0" max-vertical-offset="604">
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -55,7 +55,7 @@
       <file leaf-file-name="register.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="415" selection-end="415" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="969">
+            <state line="16" column="0" selection-start="415" selection-end="415" vertical-scroll-proportion="-2.6153846" vertical-offset="204" max-vertical-offset="969">
               <folding />
             </state>
           </provider>
@@ -64,7 +64,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BandClone/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="25" selection-start="920" selection-end="925" vertical-scroll-proportion="-7.72" vertical-offset="419" max-vertical-offset="2040">
+            <state line="42" column="5" selection-start="1068" selection-end="1068" vertical-scroll-proportion="-11.8" vertical-offset="419" max-vertical-offset="2057">
               <folding>
                 <element signature="e#319#328#0" expanded="true" />
               </folding>
@@ -104,7 +104,7 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rocker/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="57" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="13" column="8" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -146,14 +146,14 @@
         <option value="$PROJECT_DIR$/life/urls.py" />
         <option value="$PROJECT_DIR$/Personal/settings.py" />
         <option value="$PROJECT_DIR$/life/views.py" />
-        <option value="$PROJECT_DIR$/Rocker/views.py" />
-        <option value="$PROJECT_DIR$/BandClone/settings.py" />
         <option value="$PROJECT_DIR$/templates/nav.html" />
         <option value="$PROJECT_DIR$/basebackup.html" />
-        <option value="$PROJECT_DIR$/BandClone/urls.py" />
         <option value="$PROJECT_DIR$/Rocker/urls.py" />
         <option value="$PROJECT_DIR$/templates/register.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/BandClone/settings.py" />
+        <option value="$PROJECT_DIR$/Rocker/views.py" />
+        <option value="$PROJECT_DIR$/BandClone/urls.py" />
       </list>
     </option>
   </component>
@@ -526,7 +526,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -541,7 +541,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22411953" sideWeight="0.6918172" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30818278" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30818278" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -634,24 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BandClone/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="25" selection-start="920" selection-end="925" vertical-scroll-proportion="-7.72" vertical-offset="419" max-vertical-offset="2040">
-          <folding>
-            <element signature="e#319#328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rocker/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="57" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -678,12 +660,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BandClone/urls.py">
+    <entry file="file://$PROJECT_DIR$/BandClone/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="51" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+        <state line="42" column="5" selection-start="1068" selection-end="1068" vertical-scroll-proportion="-11.8" vertical-offset="419" max-vertical-offset="2057">
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#319#328#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="415" selection-end="415" vertical-scroll-proportion="-2.6153846" vertical-offset="204" max-vertical-offset="969">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -694,17 +683,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/register.html">
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="415" selection-end="415" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="969">
+        <state line="25" column="20" selection-start="823" selection-end="823" vertical-scroll-proportion="-14.384615" vertical-offset="51" max-vertical-offset="986">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/Rocker/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="14" selection-start="544" selection-end="544" vertical-scroll-proportion="0.5588235" vertical-offset="0" max-vertical-offset="1037">
-          <folding />
+        <state line="13" column="8" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BandClone/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="1" selection-start="849" selection-end="849" vertical-scroll-proportion="0.78807944" vertical-offset="0" max-vertical-offset="604">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
